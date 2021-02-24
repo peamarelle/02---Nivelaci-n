@@ -13,3 +13,7 @@
 * Callback basico.
 
 * Callback hell.
+
+* Promesas.
+
+* Async - await.
